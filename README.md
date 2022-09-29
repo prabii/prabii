@@ -2,7 +2,8 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on Ml Models
-- 📫 How to reach me 
+- 📫 How to reach me email:codeprabhas121@gmail.com
+
 
 <!---
 prabii/prabii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
